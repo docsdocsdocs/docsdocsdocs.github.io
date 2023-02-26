@@ -1,5 +1,5 @@
 url: 'https://docsdocsdocs.github.io'
-baseurl: 'docsdocsdocs.github.io'
+baseurl: 'https://docsdocsdocs.github.io'
 title: 'Jekyllwind'
 
 plugins:
