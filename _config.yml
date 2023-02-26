@@ -1,0 +1,15 @@
+url: 'https://docsdocsdocs.github.io'
+baseurl: 'docsdocsdocs.github.io'
+title: 'Jekyllwind'
+
+plugins:
+  - jekyll-postcss
+
+postcss:
+  cache: false
+
+exclude:
+  - package.json
+  - postcss.config.js
+  - tailwind.config.js
+  - yarn.lock
